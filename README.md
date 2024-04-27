@@ -1,1 +1,1 @@
-# Project2
+implementation of clear command (like in linux)
